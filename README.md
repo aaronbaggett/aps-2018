@@ -1,5 +1,4 @@
 # Modeling Ability and Decision Difficulty Among Expert Baseball Umpires
-Data and Code for APS 2018 Poster
 
 # Abstract
 Using a Rasch model, we estimated expert baseball umpires' ball/strike decision making ability and difficulty over the course of the 2015-2017 regular and postseasons. Pitch location was operationalized as a test item residing in one of 16 regions in and around the strike zone area.
