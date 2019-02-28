@@ -130,7 +130,7 @@ save(pfx_items, file = "/Users/AB/Dropbox/PITCHfx_IRT/data/pfx_items.rda")
 
 # Calculate sample means by zone for comparison
 samp_means <- list()
-for(i in 1:13){
+for(i in 1:16){
   samp_means[[i]] <- colMeans(pfx_items)[[i]]
 }
 
